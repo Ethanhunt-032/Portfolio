@@ -25,12 +25,12 @@ I am Teja Dayana, a passionate developer with a keen interest in web development
 
 ## Internship Experiance
 
-1) # NetSuite, ORACLE
+1) ### NetSuite, ORACLE
    - Role : Full Stack Developer
    - Duration : 2 months
    - Mode : Offline
      
-2) #  International Business Machines Corporation(IBM)
+2) ###  International Business Machines Corporation(IBM)
    - Role : CyberSecurity associate Intern
    - Duration : 1 months
    - Mode : Online
