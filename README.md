@@ -6,45 +6,42 @@ Welcome to my portfolio! This repository showcases my academic achievements, edu
 
 - [About Me](#about-me)
 - [Academic Background](#academic-background)
-- [Educational Achievements](#educational-achievements)
-- [Coding Projects](#coding-projects)
+- [Internship Experiance](#internship-experience)
+- [Educational Certificates](#educational-certificates)
 - [Contact Form](#contact-form)
 - [Technologies Used](#technologies-used)
 - [License](#license)
 
 ## About Me
 
-I am [Your Name], a passionate developer with a keen interest in [your interests/fields, e.g., web development, software engineering, etc.]. This portfolio highlights my skills and projects, reflecting my journey in the tech world.
+I am Teja Dayana, a passionate developer with a keen interest in web development, software engineering. This portfolio highlights my skills and projects, reflecting my journey in the tech world.
 
 ## Academic Background
 
-- **Degree:** [Your Degree]
-- **Institution:** [Your University/College]
-- **Graduation Year:** [Year]
-- **Relevant Coursework:** [Course names or subjects]
+- **Degree:** B.Tech
+- **Institution:** Nit Trichy
+- **Graduation Year:** 2025
+- **Relevant Coursework:** ECE
 
-## Educational Achievements
+## Internship Experiance
 
-- [Achievement 1: Brief description]
-- [Achievement 2: Brief description]
-- [Achievement 3: Brief description]
+1) # NetSuite, ORACLE
+   - Role : Full Stack Developer
+   - Duration : 2 months
+   - Mode : Offline
+     
+2) #  International Business Machines Corporation(IBM)
+   - Role : CyberSecurity associate Intern
+   - Duration : 1 months
+   - Mode : Online
 
-## Coding Projects
+   
+## Educational Certificates
 
-### Project 1: [Project Name]
-- **Description:** [Brief description of the project]
-- **Technologies Used:** [HTML, CSS, JavaScript, etc.]
-- **Link:** [Live demo link or GitHub repository]
+- Google Cloud Engineer learning (GOOGLE CLOUD)]
+- Cyber Security (IBM skill build)
+- Married Put (Protective Put) Option Strategy development
 
-### Project 2: [Project Name]
-- **Description:** [Brief description of the project]
-- **Technologies Used:** [HTML, CSS, JavaScript, etc.]
-- **Link:** [Live demo link or GitHub repository]
-
-### Project 3: [Project Name]
-- **Description:** [Brief description of the project]
-- **Technologies Used:** [HTML, CSS, JavaScript, etc.]
-- **Link:** [Live demo link or GitHub repository]
 
 ## Contact Form
 
